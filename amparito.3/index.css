@@ -1,0 +1,517 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+
+@font-face {
+  font-family: "Canaro";
+  src: url("./typogra/Canaro-W00-Medium.ttf");
+}
+@font-face {
+  font-family: "Canaro05";
+  src: url("./typogra/FontsFree-Net-sdgg.ttf");
+}
+.h1,
+h1 {
+  font-family: "Canaro05";
+}
+.p,
+a {
+  font-family: "Open Sans";
+}
+
+.card-img-top {
+  max-height: 220px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+}
+
+.text-Amparito {
+  color: #97c93e !important;
+}
+.bg-dark {
+  background-color: #9068fd !important;
+}
+.btn-Amparito {
+  background-color: white;
+  color: #6409fe;
+}
+
+.btn-Amparito:hover {
+  background-color: #dbdbd9;
+}
+
+#header img {
+  width: 160px;
+}
+
+#main .carousel-inner img {
+  max-height: 70vh;
+  object-fit: cover;
+}
+#inicio {
+  margin-top: 0.5%;
+  background-color: #a769f6;
+  display: contents;
+}
+
+#carousel {
+  position: relative;
+}
+
+#carousel .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: transparent;
+  color: white;
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row {
+  height: 100%;
+}
+
+#seguros-recomendados {
+  background-color: #343a40;
+  color: white;
+  height: 95vh;
+}
+
+#seguros-recomendados img {
+  max-width: 100%;
+}
+
+#footer {
+  background: linear-gradient(90deg, #7065fc, #7065fc 25%, #7065fc 40%);
+}
+
+#footer a {
+  color: white;
+}
+
+/* ingreso clases */
+/* seguro express */
+.titulo-1 {
+  color: rgb(114, 101, 251);
+  font-family: Canaro;
+  font-size: 64px;
+  line-height: 90%;
+  margin-top: 0%;
+}
+
+.titulo-2 {
+  font-family: Canaro;
+  color: rgb(219, 219, 219);
+  font-size: 80px;
+  margin-top: 10%;
+  display: center;
+  margin-left: 19%;
+}
+#titulo-3 {
+  font-size: 150%;
+  color: rgb(100, 9, 254);
+  max-width: 40%;
+  margin-top: 10%;
+}
+#titulo-4 {
+  max-width: 50%;
+  color: #808285;
+}
+#titulo-5 {
+  font-size: 150%;
+  color: rgb(100, 9, 254);
+  margin-left: 50%;
+  width: 50%;
+  margin-top: 10%;
+}
+
+#titulo-6 {
+  color: #808285;
+  margin-left: 51%;
+  max-width: 50%;
+  margin-bottom: 15%;
+  text-align: right;
+}
+/* seguro express */
+/* reglas servicio */
+.titulo-7 {
+  color: rgb(114, 101, 251);
+  font-family: Canaro;
+  font-size: 64px;
+  line-height: 90%;
+}
+
+.titulo-8 {
+  font-family: "Open Sans";
+  color: #212529;
+  font-size: 1rem;
+  margin-top: 5%;
+  max-width: 70%;
+  margin-left: 13%;
+}
+#titulo-9 {
+  font-size: 150%;
+  color: rgb(100, 9, 254);
+  max-width: 40%;
+  margin-top: 5%;
+}
+#titulo-10 {
+  max-width: 50%;
+}
+#titulo-11 {
+  font-size: 150%;
+  color: rgb(100, 9, 254);
+  margin-left: 60%;
+}
+#titulo-12 {
+  margin-left: 50%;
+  max-width: 50%;
+}
+/* reglas servicio */
+.titulo-13 {
+  color: rgb(114, 101, 251);
+  font-family: Canaro;
+  font-size: 64px;
+  line-height: 90%;
+}
+#titulo-14 {
+  max-width: 50%;
+  margin-top: 5%;
+}
+#titulo-16 {
+  margin-left: 50%;
+  max-width: 50%;
+}
+#titulo-16 {
+  max-width: 50%;
+}
+
+/* ------------------reglas del sitio-  ------------------------------- */
+
+.titulo-17 {
+  color: rgb(114, 101, 251);
+  font-family: Canaro;
+  font-size: 64px;
+  line-height: 90%;
+  margin-top: 10%;
+  text-align: center;
+}
+
+.titulo-18 {
+  max-width: 50%;
+  color: #808285;
+  margin-top: 10%;
+  text-align: justify;
+}
+.titulo-19 {
+  color: #808285;
+}
+
+.titulo-20 {
+  color: #808285;
+  margin-left: 51%;
+  max-width: 50%;
+  margin-bottom: 15%;
+  text-align: right;
+  width: 49%;
+}
+.titulo-21 {
+  color: #808285;
+  margin-top: -16%;
+}
+.titulo-22 {
+  color: #808285;
+  max-width: 50%;
+  margin-bottom: 15%;
+  text-align: right;
+}
+.titulo-23 {
+  color: rgb(114, 101, 251);
+  font-family: "Canaro";
+  font-size: 23px;
+  margin-top: -5%;
+  max-width: 60%;
+  margin-left: 22%;
+}
+.titulo-24 {
+  background-color: #6409fe;
+  color: white;
+  font-size: 200%;
+  border-radius: 30px;
+  margin: 9%;
+  border: none;
+
+  width: 228px;
+  height: 34px;
+  font-size: 25px;
+  margin-top: 3%;
+  margin-left: 13%;
+}
+
+.titulo-25 {
+  color: rgb(114, 101, 251);
+  font-family: Canaro;
+  font-size: 64px;
+  line-height: 90%;
+  text-align: center;
+  margin-top: 8%;
+  max-width: 75%;
+  margin-left: 15%;
+  line-height: 120%;
+  margin-bottom: 6%;
+}
+#titulo-25-1 {
+  margin-bottom: -100%;
+}
+
+#fondo-gris {
+  position: absolute;
+  height: 94%;
+  max-width: 54.5%;
+}
+
+.titulo-26 {
+  font-family: Canaro;
+  color: rgb(219, 219, 219);
+  font-size: 80px;
+  margin-top: 10%;
+  display: center;
+  margin-left: 4%;
+}
+.titulo-27 {
+  max-width: 50%;
+  color: #808285;
+  margin-top: 10%;
+  text-align: justify;
+  margin-left: 25%;
+}
+
+.titulo-28 {
+  height: 9%;
+  margin-left: 44%;
+  margin-top: 9%;
+}
+.titulo-29 {
+  text-align: center;
+}
+/*--------------------------- productos ------------------*/
+.titulo-30 {
+  border-color: #808285;
+  border-radius: 5%;
+  padding-top: 4%;
+  margin-right: 1%;
+  margin-left: 1%;
+  margin-bottom: 7%;
+  padding-bottom: 4%;
+  margin-top: 5%;
+  padding-bottom: 6%;
+}
+.titulo-30 {
+  @media (min-width: 992px) -ms-flex: 0 0 33.333333%;
+  flex: 0 0 30%;
+  max-width: 30%;
+}
+
+#products-row {
+  justify-content: center;
+}
+
+#titulo-30 {
+  margin-top: 15%;
+}
+
+svg {
+  margin-bottom: 8%;
+}
+
+.titulo-32 {
+  margin-top: 15%;
+  max-width: 80%;
+  margin-left: 10%;
+  margin-bottom: 25%;
+}
+/*--------------------------- productos ------------------*/
+/*--------------------------- botton ------------------*/
+.titulo-33 {
+  background-color: #6409fe;
+  color: white;
+  font-size: 200%;
+  border-radius: 30px;
+  margin: 9%;
+  border: none;
+  padding-block-end: px;
+  width: 228px;
+  height: 34px;
+  font-size: 25px;
+  margin-top: 0%;
+  margin-left: 13%;
+}
+#titulo-30-3 {
+  margin-top: 3%;
+}
+
+.titulo-34 {
+  font-family: "Canaro", sans-serif;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+/*--------------------------- quiero vender ------------------*/
+
+#fondo-azul {
+  position: absolute;
+  height: 80%;
+  max-width: 54.5%;
+}
+
+.titulo-34 {
+  color: rgb(219, 219, 219);
+  font-family: Canaro;
+  font-size: 70px;
+  line-height: 90%;
+  text-align: center;
+  margin-top: 12%;
+  max-width: 75%;
+  margin-left: 15%;
+
+  margin-bottom: 6%;
+  margin-top: 19%;
+}
+.titulo-35 {
+  font-family: Canaro;
+  color: black;
+  font-size: 25px;
+  margin-top: 5%;
+  display: center;
+  margin-left: 4%;
+}
+.titulo-36 {
+  max-width: 50%;
+  color: white;
+  margin-top: 2%;
+  text-align: justify;
+  margin-left: 28%;
+  font-family: "Open Sans";
+  font-size: 18px;
+}
+.titulo-37 {
+  background-color: white;
+  color: #6409fe;
+  font-size: 200%;
+  border-radius: 30px;
+  margin: 9%;
+  border: none;
+
+  width: 228px;
+  height: 34px;
+  font-size: 25px;
+  margin-top: 0%;
+  margin-left: 43%;
+}
+.titulo-38 {
+  color: rgb(114, 101, 251);
+  font-family: Canaro;
+  font-size: 64px;
+  line-height: 90%;
+  text-align: center;
+  margin-top: 8%;
+  max-width: 75%;
+  margin-left: 15%;
+  line-height: 120%;
+  margin-bottom: 6%;
+}
+.titulo-39 {
+  color: rgb(114, 101, 251);
+  font-family: Canaro;
+  font-size: 25px;
+  line-height: 90%;
+  text-align: center;
+
+  max-width: 75%;
+  margin-left: 15%;
+  line-height: 120%;
+  margin-bottom: 6%;
+}
+.titulo-40 {
+  color: #808285;
+  max-width: 48%;
+  margin-bottom: 2%;
+  text-align: right;
+  margin-left: 1%;
+}
+.titulo-41 {
+  background-color: #6409fe;
+  color: white;
+  font-size: 200%;
+  border-radius: 30px;
+  margin: 9%;
+  border: none;
+  padding-block-end: px;
+  width: 228px;
+  height: 34px;
+  font-size: 25px;
+  margin-top: 9%;
+  margin-left: 80%;
+}
+.titulo-42 {
+  color: #808285;
+  margin-left: 51%;
+  max-width: 50%;
+  margin-bottom: 15%;
+  text-align: justify;
+  width: 45%;
+}
+.titulo-43 {
+  color: #808285;
+  max-width: 50%;
+  margin-bottom: 15%;
+  text-align: right;
+  margin-top: -12%;
+  display: grid;
+}
+/*--------------------------- quiero vender ------------------*/
+/*--------------------------- faq ------------------*/
+.faq button.accordion {
+  background-color: white;
+  font-family: "Canaro";
+  color: #9988fc;
+  cursor: pointer;
+  padding: 18px;
+  width: 105%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+  margin-left: 0%;
+  font-size: 185%;
+}
+.faq button.accordion.active,
+.faq button.accordion:hover {
+  background-color: #f6f6f6;
+}
+.faq div.panel {
+  display: none;
+  background-color: white;
+}
+
+.faq div.panel.show {
+  display: block !important;
+}
+
+.titulo-44 {
+  color: #808285;
+  max-width: 80%;
+  margin-left: 13%;
+  text-align: justify;
+}
+
+#seguros-recomendados {
+  margin-top: 10%;
+  height: 62.8vh;
+}
+
+/*--------------------------- faq ------------------*/
